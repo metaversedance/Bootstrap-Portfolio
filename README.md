@@ -1,4 +1,1 @@
 # Bootstrap-Portfolio
-
-Questions:
-How 
