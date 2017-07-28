@@ -3,3 +3,12 @@
 	padding: 10px;
 	width: 215px;
 }
+.contact-icon {
+	width: 30%;
+	float: left;
+}
+
+body {
+    background-image: url("images/concrete_seamless.png");
+    background-color: #cccccc;
+}
